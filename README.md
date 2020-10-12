@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I am  new to the github community and started to learn python programming language, so will come up with exciting scripts and progects to help the other developers
+## I am  new to the github community and started to learn python programming language, so will come up with exciting scripts and projects to help the other developers
 
 
 
