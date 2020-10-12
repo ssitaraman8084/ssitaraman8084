@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## I am  new to the github community and started to learn python programming language, so will come up with exciting scripts and progects to help the other developers
+
+
+
+
 <!--
 **ssitaraman8084/ssitaraman8084** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
